@@ -47,3 +47,6 @@ venv.bak/
 
 # VS Code
 settings.json
+
+# macos
+.DS_Store
